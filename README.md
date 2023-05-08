@@ -4,7 +4,7 @@
 
 </div>
 
--   Link do design feito no Figma: [**https://www.figma.com/file/arv7SOKEWwJYHAMQPXjpbM/Untitled?type=design&node-id=0%3A3&t=R196jDaDI5wSfjXI-1**](https://www.figma.com).
+-   Link do design feito no Figma: [**https://www.figma.com**]([https://www.figma.com](https://www.figma.com/file/arv7SOKEWwJYHAMQPXjpbM/Untitled?type=design&node-id=0%3A3&t=R196jDaDI5wSfjXI-1)).
 
 ### Requisitos:
 
