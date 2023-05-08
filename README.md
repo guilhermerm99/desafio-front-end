@@ -4,15 +4,12 @@
 
 </div>
 
-::: page-body
+
 ### Requisitos {#9c2a8ed3-d463-4f31-ad61-f7bac3177184}
 
 -   Node.js v18.16.0 ou superior instalado em sua máquina. Você pode
     baixar o Node.js em [**https://nodejs.org/**](https://nodejs.org/).
 
-```{=html}
-<!-- -->
-```
 -   Yarn instalado em sua máquina. Você pode instalá-lo executando o
     seguinte comando no terminal:
 
@@ -25,9 +22,6 @@ Instale as dependências:
 -   Após o clone do repositório, navegue até o diretório do projeto no
     terminal.
 
-```{=html}
-<!-- -->
-```
 -   Execute o seguinte comando para instalar as dependências
     necessárias:
 
@@ -51,9 +45,6 @@ yarn start
 -   Isso iniciará o aplicativo e abrirá uma nova guia no navegador com o
     endereço `http://localhost:3000`.
 
-```{=html}
-<!-- -->
-```
 -   O aplicativo será recarregado automaticamente se você fizer
     alterações nos arquivos do projeto.
 :::
