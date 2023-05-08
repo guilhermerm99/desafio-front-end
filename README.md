@@ -6,6 +6,8 @@
 
 ### Requisitos:
 
+-   Link do design feito no Figma: [**https://www.figma.com/file/arv7SOKEWwJYHAMQPXjpbM/Untitled?type=design&node-id=0%3A3&t=R196jDaDI5wSfjXI-1**](https://www.figma.com/file/arv7SOKEWwJYHAMQPXjpbM/Untitled?type=design&node-id=0%3A3&t=R196jDaDI5wSfjXI-1).
+
 -   Node.js v18.16.0 ou superior instalado em sua máquina. Você pode
     baixar o Node.js em [**https://nodejs.org/**](https://nodejs.org/).
 
