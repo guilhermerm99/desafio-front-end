@@ -5,7 +5,7 @@
 </div>
 
 
-### Requisitos {#9c2a8ed3-d463-4f31-ad61-f7bac3177184}
+### Requisitos
 
 -   Node.js v18.16.0 ou superior instalado em sua máquina. Você pode
     baixar o Node.js em [**https://nodejs.org/**](https://nodejs.org/).
