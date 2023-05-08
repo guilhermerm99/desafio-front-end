@@ -1,6 +1,6 @@
 <div>
 
-# Desafio Front-End {#desafio-front-end .page-title}
+# Desafio Front-End
 
 </div>
 
@@ -47,4 +47,3 @@ yarn start
 
 -   O aplicativo será recarregado automaticamente se você fizer
     alterações nos arquivos do projeto.
-:::
